@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container{
+    background-image: url("https://www.thespruce.com/thmb/V58i4ob__72tR52db0UxCBlGlwM=/2880x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-create-daily-routine-hero-bdef1687b3e1477a9edf64f3b9790183.jpg");
+    height: 87vh;
+    background-size:cover;
+}
+.main-heading{
+    text-align: center;
+    font-family:Lobster ;
+    font-size: 48px;
+}
+.caption-card{
+  color:#990c13;
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+}
+.heading-card{
+    font-size: 25px;
+    font-family:Roboto ;
+    text-decoration: underline;
+}
+.checkbox-list{
+font-size: 20px;
+color: #120365;
+}
+.button{
+    text-align: center;
+    padding: 5px;
+}
+.list-button{
+    height: 36px;
+    width: 138px;
+    color: white;
+    background-color:#4f0a80;
+    border-width: 2px;
+    border-radius: 25px;
+    padding: 5px;
+}
+.quote-card{
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+}
